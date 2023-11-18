@@ -69,13 +69,13 @@ Original data can be access using this link:
   
  - Dropping of Customer ID
 
- -Filling of null values
+ - Filling of null values
 
- -Changing the Date and Birthdate to datetime types
+- Changing the Date and Birthdate to datetime types
 
--Converting Birthdate to Age
+-  Converting Birthdate to Age
 
--Removing of duplicate values
+-  Removing of duplicate values
 
 ## Analysis And Visualization
 
@@ -97,7 +97,18 @@ July emerges as the peak month for transactions, recording a substantial total e
 
 The data analysis shows distinct spending patterns, revealing that "Travel" commands the highest transaction amounts, closely followed by "Electronics." In contrast, "Restaurant" transactions exhibit the lowest amounts. This insight highlights consumer priorities, with considerable expenditures in travel and electronics, potentially indicating lifestyle preferences and economic priorities.
 
+## Conclusion And Recommendation
 
+### Conclusion
+The transaction analysis reveals diverse spending patterns across genders, categories, and months. While gender-based spending is balanced, "Travel" and "Electronics" lead in categories. July marks peak transactions, and attention to the "Not Specified" gender category is crucial. Strategic marketing adjustments can capitalize on insights, fostering business growth.
+
+
+### Recommendation
+
+Improve gender data collection methods to enhance accuracy and completeness.
+Tailor marketing strategies for high-performing categories like "Travel" and "Electronics.
+Leverage insights from peak months for strategic planning and promotional activities.
+Explore initiatives to stimulate transactions in lower-performing categories, such as "Restaurant.
 
 
 
