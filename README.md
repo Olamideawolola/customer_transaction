@@ -21,7 +21,7 @@
   
 This project aims to comprehensively understand and optimize customer card transaction insightsBy delving into gender-based spending patterns, identifying peak transaction periods, analyzing time-based trends, evaluating merchant performance, and summarizing category-wise transaction insights, the project seeks to provide actionable recommendations for improving financial strategies, customer experiences, and overall business outcomes.
 
-Original data can be access using this link:
+Original data can be access using this link:/kaggle/input/comprehensive-credit-card-transactions-dataset/credit_card_transaction_flow.csv'
 
 ## Data Dictionary 
 
